@@ -62,7 +62,7 @@ You are allowed and encouraged to use this software on the IEEE Very Small Size 
 [imgui]: https://github.com/ocornut/imgui/
 [travis]: https://travis-ci.org/SIRLab/VSS-Vision
 [samplestrategy]: https://github.com/SIRLab/VSS-SampleStrategy
-[install]: https://github.com/SIRLab/VSS-Vision/blob/master/INSTALL.md
+[install]: https://github.com/SIRLab/VSS-Vision/blob/legacy/INSTALL.md
 [documentation]: http://sirlab.github.io/assets/docs/doc_vision/html/index.html
 
 
